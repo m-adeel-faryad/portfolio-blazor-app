@@ -1,12 +1,17 @@
 {
-  "description": "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.",
+  "description": "With five years of experience as a C# and .NET developer, I have honed my skills in designing, developing, deploying, and maintaining robust applications using Microsoft's .NET framework.\nMy expertise encompasses advanced language features such as delegates, events, generics, lambda expressions, extension methods, and attributes, enabling me to craft efficient and scalable solutions.\nI am adept at leveraging the latest technologies to deliver high-quality software solutions that meet client needs.",
   "skills": [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design"
+    "C#",
+    "ASP.NET",
+    "ASP.NET Core",
+    "Blazor",
+    "Entity Framework Core",
+    "SQL Server",
+    "PostgreSQL",
+    "Docker",
+    "Azure",
+    "CI/CD",
+    "Git"
   ],
-  "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
+  "detailOrQuote": "I believe that code should be as efficient to read as it is to execute, and I strive to write clean, maintainable, and scalable solutions."
 }
