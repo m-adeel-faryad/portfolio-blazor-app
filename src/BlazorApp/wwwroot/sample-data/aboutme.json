@@ -11,7 +11,16 @@
     "Docker",
     "Azure",
     "CI/CD",
-    "Git"
+    "Git",
+    "Microservices",
+    "RESTful APIs",
+    "RabbitMQ",
+    "MassTransit",
+    "SignalR",
+    "Dapper",
+    "Polly",
+    "MediatR",
+    "Ado.Net"
   ],
   "detailOrQuote": "I believe that code should be as efficient to read as it is to execute, and I strive to write clean, maintainable, and scalable solutions."
 }
